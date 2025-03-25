@@ -89,7 +89,7 @@ voice-chatbot
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/voice-chatbot.git
+git clone https://github.com/Gangatharangurusamy/voice-ai-chatbot.git
 cd voice-chatbot
 ```
 
