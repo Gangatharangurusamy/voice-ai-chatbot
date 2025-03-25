@@ -161,23 +161,6 @@ GROQ_API_KEY=your_groq_api_key
 uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 ```
 
-### 3. Setup Frontend (React & TypeScript)
-
-#### Install Dependencies
-
-```bash
-cd frontend
-npm install
-```
-
-#### Run the Frontend
-
-```bash
-npm start
-```
-
-Your app will now be running at `http://localhost:3000` 🎉
-
 ## 🔍 Design Decisions
 
 ### Faster Whisper for STT
